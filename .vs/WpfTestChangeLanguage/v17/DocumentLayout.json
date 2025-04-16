@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\Project\\WpfTestChangeLanguage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97FC0348-0B9C-426F-AA28-2CF1669E15BA}|WpfTestChangeLanguage\\WpfTestChangeLanguage.csproj|d:\\work\\project\\wpftestchangelanguage\\wpftestchangelanguage\\localizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97FC0348-0B9C-426F-AA28-2CF1669E15BA}|WpfTestChangeLanguage\\WpfTestChangeLanguage.csproj|solutionrelative:wpftestchangelanguage\\localizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FC0348-0B9C-426F-AA28-2CF1669E15BA}|WpfTestChangeLanguage\\WpfTestChangeLanguage.csproj|d:\\work\\project\\wpftestchangelanguage\\wpftestchangelanguage\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97FC0348-0B9C-426F-AA28-2CF1669E15BA}|WpfTestChangeLanguage\\WpfTestChangeLanguage.csproj|solutionrelative:wpftestchangelanguage\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FC0348-0B9C-426F-AA28-2CF1669E15BA}|WpfTestChangeLanguage\\WpfTestChangeLanguage.csproj|d:\\work\\project\\wpftestchangelanguage\\wpftestchangelanguage\\notifypropertychanged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97FC0348-0B9C-426F-AA28-2CF1669E15BA}|WpfTestChangeLanguage\\WpfTestChangeLanguage.csproj|solutionrelative:wpftestchangelanguage\\notifypropertychanged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "D:\\Work\\Project\\WpfTestChangeLanguage\\WpfTestChangeLanguage\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "WpfTestChangeLanguage\\MainWindowViewModel.cs",
+              "ToolTip": "D:\\Work\\Project\\WpfTestChangeLanguage\\WpfTestChangeLanguage\\MainWindowViewModel.cs",
+              "RelativeToolTip": "WpfTestChangeLanguage\\MainWindowViewModel.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwB8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T09:49:00.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LocalizationService.cs",
+              "DocumentMoniker": "D:\\Work\\Project\\WpfTestChangeLanguage\\WpfTestChangeLanguage\\LocalizationService.cs",
+              "RelativeDocumentMoniker": "WpfTestChangeLanguage\\LocalizationService.cs",
+              "ToolTip": "D:\\Work\\Project\\WpfTestChangeLanguage\\WpfTestChangeLanguage\\LocalizationService.cs",
+              "RelativeToolTip": "WpfTestChangeLanguage\\LocalizationService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T08:56:47.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotifyPropertyChanged.cs",
+              "DocumentMoniker": "D:\\Work\\Project\\WpfTestChangeLanguage\\WpfTestChangeLanguage\\NotifyPropertyChanged.cs",
+              "RelativeDocumentMoniker": "WpfTestChangeLanguage\\NotifyPropertyChanged.cs",
+              "ToolTip": "D:\\Work\\Project\\WpfTestChangeLanguage\\WpfTestChangeLanguage\\NotifyPropertyChanged.cs",
+              "RelativeToolTip": "WpfTestChangeLanguage\\NotifyPropertyChanged.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T09:14:08.01Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
